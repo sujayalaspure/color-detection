@@ -16,3 +16,7 @@ Colour detection is the process of detecting the name of any color. We are detec
 > python color_detection.py
 or
 > python color_detection.py --image <image path from source code>
+
+
+Ref:
+Original project from [data-flair](https://data-flair.training/blogs/project-in-python-colour-detection)
